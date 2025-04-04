@@ -14,7 +14,7 @@ namespace my_client
         }
     }
 
-    class Program
+    class Programs
     {
         static void Main(string[] args)
         {
